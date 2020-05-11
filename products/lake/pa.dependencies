@@ -1,0 +1,68 @@
+[
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_device_motorola_lake",
+    "target_path":  "device/motorola/lake",
+    "revision":     "quartz"
+  },
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_device_motorola_sdm660-common",
+    "target_path":  "device/motorola/sdm660-common",
+    "revision":     "quartz"
+  },
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_kernel_motorola_msm8998",
+    "target_path":  "kernel/motorola/msm8998",
+    "revision":     "quartz"
+  },
+  {
+    "remote":       "blobs",
+    "repository":   "proprietary_vendor_motorola",
+    "target_path":  "vendor/motorola",
+    "revision":     "quartz"
+  },
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_device_qcom_common",
+    "target_path":  "device/qcom/common",
+    "revision":     "quartz"
+  },
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_hardware_qcom_audio",
+    "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
+    "revision":     "quartz-8998"
+  },
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_hardware_qcom_display",
+    "target_path":  "hardware/qcom/display",
+    "revision":     "quartz-8998"
+  },
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_hardware_qcom_media",
+    "target_path":  "hardware/qcom/media",
+    "revision":     "quartz-8998"
+  },
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_packages_apps_Bluetooth",
+    "target_path":  "packages/apps/Bluetooth",
+    "revision":     "quartz-dev"
+  },
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_vendor_qcom-opensource_fm-commonsys",
+    "target_path":  "vendor/qcom/opensource/commonsys/fm",
+    "revision":     "quartz"
+  },
+  {
+    "remote":       "blobs",
+    "repository":   "proprietary_vendor_qcom_common",
+    "target_path":  "vendor/qcom/common",
+    "revision":     "quartz"
+  }
+]
